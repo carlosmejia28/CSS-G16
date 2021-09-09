@@ -1,0 +1,15 @@
+h1{
+    color:lightseagreen;
+    text-align: center;
+}
+
+p{
+    color:darkgreen
+}
+
+div {
+    border: 10px solid gray;
+    background-color: darkgray;
+    text-align: center;
+    
+}

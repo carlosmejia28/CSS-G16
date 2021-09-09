@@ -1,0 +1,17 @@
+h1{
+    color: coral;
+}
+
+a:link, a:visited{
+    background-color:rgb(170, 57, 80);
+    color: rgb(122, 149, 167);
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+a:hover, a:active{
+    background-color: rgb(73, 4, 67);
+    
+}
