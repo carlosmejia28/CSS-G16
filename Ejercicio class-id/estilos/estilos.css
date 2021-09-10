@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#titulo_principal{
+    color:deeppink;
+    text-align: center;
+}
+
+h2{
+    color:mediumblue;
+}
+
+P{
+    color: cornflowerblue;
+}
+
+/*Clase de CSS*/
+.tarjeta{
+    border:10px solid rebeccapurple;
+    background-color: cornsilk;
+    text-align: center;
+    margin: 15px 100px;
+    padding: 15px;
+}
+
+.titulo{
+    color: rgb(212, 9, 9);
+}
